@@ -31,4 +31,11 @@ Basel III
 
 To Categorize
 - 2052a
-- 
+- HQLA (High Quality Liquid Assets)
+- Off Balance Sheet (https://www.investopedia.com/terms/o/off-balance-sheet-obs.asp)
+- On Balance Sheet
+
+
+Resources:
+- LCR: https://financetrain.com/basel-iii-liquidity-coverage-ratio/
+- LCR vs NSFR: https://www.bbva.com/en/lcr-and-nsfr-what-do-these-liquidity-ratios-stand-for/
